@@ -10,7 +10,8 @@ import Projects from "./pages/Projects"
 
 function App() {
   // URL with heroku link
-  const URL = "https://da-portfolio-server.herokuapp.com";
+  const URL = "https://da-portfolio-server.herokuapp.com/";
+  
   
   return (
     <div className="App">
